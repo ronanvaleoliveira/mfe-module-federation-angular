@@ -1,0 +1,9 @@
+.blue-background {
+  width: 100%; /* Define a largura como 100% da largura da tela */
+  height: 50vh; /* Define a altura como 100% da altura da tela (viewport height) */
+  background-color: #1976d2; /* Define a cor de fundo como azul */
+}
+.custom-H1 {
+  color: white;
+  padding: 30px;
+}
